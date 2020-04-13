@@ -1,6 +1,6 @@
 {
 "example_addon_extensions4":{
-"type":"extensions",
+"type":"extension",
 "slug":"example_addon_extensions4",
 "title":"Example extensions4 Addon",
 "thumbnail":"https:\/\/s3.envato.com\/files\/266866500\/thumbnail.png",
