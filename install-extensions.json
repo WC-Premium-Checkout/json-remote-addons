@@ -1,0 +1,14 @@
+{
+"example_addon_extensions4":{
+"type":"extensions",
+"slug":"example_addon_extensions4",
+"title":"Example extensions4 Addon",
+"thumbnail":"https:\/\/s3.envato.com\/files\/266866500\/thumbnail.png",
+"description":"A simple addon for WPC",
+"version":"1.0.0",
+"author":"WPC",
+"author_url":"https:\/\/s3.envato.com\/",
+"url":"https:\/\/s3.envato.com\/",
+"download":"https:\/\/s3.envato.com\/"
+}
+}
