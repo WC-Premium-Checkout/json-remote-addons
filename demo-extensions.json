@@ -1,0 +1,26 @@
+{
+"example_addon_extension5":{
+"type":"extension",
+"slug":"example_addon_extension5",
+"title":"Example extension5 Addon",
+"thumbnail":"https:\/\/s3.envato.com\/files\/266866500\/thumbnail.png",
+"description":"A simple addon for WPC",
+"version":"1.0.0",
+"author":"WPC",
+"author_url":"https:\/\/s3.envato.com\/",
+"url":"https:\/\/s3.envato.com\/",
+"download":"https:\/\/s3.envato.com\/"
+},
+"example_addon_extension6":{
+"type":"extension",
+"slug":"example_addon_extension6",
+"title":"Example extension6 Addon",
+"thumbnail":"https:\/\/s3.envato.com\/files\/266866500\/thumbnail.png",
+"description":"A simple addon for WPC",
+"version":"1.0.0",
+"author":"WPC",
+"author_url":"https:\/\/s3.envato.com\/",
+"url":"https:\/\/s3.envato.com\/",
+"download":"https:\/\/s3.envato.com\/"
+}
+}
