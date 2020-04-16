@@ -9,7 +9,8 @@
 "author":"WPC",
 "author_url":"https:\/\/s3.envato.com\/",
 "url":"https:\/\/s3.envato.com\/",
-"download":"https:\/\/s3.envato.com\/"
+"preview":"https:\/\/s3.envato.com\/",
+"upsell":true
 },
 "example_addon_extension6":{
 "type":"extension",
@@ -21,6 +22,7 @@
 "author":"WPC",
 "author_url":"https:\/\/s3.envato.com\/",
 "url":"https:\/\/s3.envato.com\/",
-"download":"https:\/\/s3.envato.com\/"
+"preview":"https:\/\/s3.envato.com\/",
+"upsell":true
 }
 }
